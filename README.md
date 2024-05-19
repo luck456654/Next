@@ -1,1 +1,1 @@
-Заготовка Next+React+Redux
+<b>Заготовка</b> Next+React+Redux
